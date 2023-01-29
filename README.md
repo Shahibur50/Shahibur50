@@ -2,56 +2,61 @@
 
 ### Few things about me
 - 🔭 I’m currently working on [LessSQL](https://github.com/Shahibur50/LessSQL) (An intuitive MySQL database management client).
+  - <details><summary>LessSQL Demo</summary>
+    <p>
 
-#### LessSQL demo:
-```
-LOGGED IN AS: DemoUser@172.28.xxx.xxx
-TIME: 09:10:34 AM
+       ```
+       LOGGED IN AS: DemoUser@172.28.xxx.xxx
+       TIME: 09:10:34 AM
 
-MySQL server version: 8.0.32-0buntu0.22.04.1
-Connection ID: 11
+       MySQL server version: 8.0.32-0buntu0.22.04.1
+       Connection ID: 11
 
-+------------------------------------------------------------+
-| Welcome to LessSQL Database Management Client              |
-| Version: 1.0.0                                             |
-|                                                            |
-| Copyright (c) 2023 Shahibur Rahaman                        |
-|                                                            |
-| This program comes with ABSOLUTELY NO WARRANTY.            |
-|                                                            |
-| For more info and updates visit:                           |
-| https://github.com/Shahibur50/LessSQL                      |
-|                                                            |
-| Commands end with ;                                        |
-|                                                            |
-| To cancel any input statement type '\c'                    |
-|                                                            |
-| Type "license;" to see the license.                        |
-| Type 'help;' or '\h;' for help. To exit type 'exit;'       |
-+------------------------------------------------------------+
+       +------------------------------------------------------------+
+       | Welcome to LessSQL Database Management Client              |
+       | Version: 1.0.0                                             |
+       |                                                            |
+       | Copyright (c) 2023 Shahibur Rahaman                        |
+       |                                                            |
+       | This program comes with ABSOLUTELY NO WARRANTY.            |
+       |                                                            |
+       | For more info and updates visit:                           |
+       | https://github.com/Shahibur50/LessSQL                      |
+       |                                                            |
+       | Commands end with ;                                        |
+       |                                                            |
+       | To cancel any input statement type '\c'                    |
+       |                                                            |
+       | Type "license;" to see the license.                        |
+       | Type 'help;' or '\h;' for help. To exit type 'exit;'       |
+       +------------------------------------------------------------+
 
-LessSQL|> create database;    
-       -> DATABASE NAME: demo
+       LessSQL|> create database;    
+              -> DATABASE NAME: demo
 
-Query OK, created database [demo]
+       Query OK, created database [demo]
 
-LessSQL|> use database;
-       -> DATABASE NAME: demo
+       LessSQL|> use database;
+              -> DATABASE NAME: demo
 
-Query OK, now using database [demo]
+       Query OK, now using database [demo]
 
-LessSQL|> create table;             
-       -> NAME OF TABLE: demoTable
-       -> NO. OF COLUMNS: 3
-       -> COLUMN (1) NAME AND DATA-TYPE: demo_id INT 
-       -> COLUMN (2) NAME AND DATA-TYPE: demo_name VARCHAR(35)     
-       -> COLUMN (3) NAME AND DATA-TYPE: demo_remarks VARCHAR(100)
-       -> PRIMARY KEY: demo_id
+       LessSQL|> create table;             
+              -> NAME OF TABLE: demoTable
+              -> NO. OF COLUMNS: 3
+              -> COLUMN (1) NAME AND DATA-TYPE: demo_id INT 
+              -> COLUMN (2) NAME AND DATA-TYPE: demo_name VARCHAR(35)     
+              -> COLUMN (3) NAME AND DATA-TYPE: demo_remarks VARCHAR(100)
+              -> PRIMARY KEY: demo_id
 
-Query OK, created table [demoTable]
+       Query OK, created table [demoTable]
 
-LessSQL|>
-```
+       LessSQL|>
+       ```
+
+    </p>
+    </details>
+
 - 🌱 I’m currently learning:
   - <img src="https://img.shields.io/badge/Python-fdd33c?style=flat&logo=python&logoColor=407cae"></img> for data analytics 📊 and ML 🤖.
   - <img src="https://img.shields.io/badge/Programming Language-6094cb?style=flat&logo=C&logoColor=ffffff"></img> for University credits 😅.
@@ -62,6 +67,6 @@ LessSQL|>
 - ⚡ Fun fact: The quieter you become, the more you are able to hear.
 
 ## Statistics
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahibur50&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahibur50&langs_count=5&theme=tokyonight)]()
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahibur50&theme=github-dark">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahibur50&count_private=true&theme=github_dark&showicons=true)]() 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahibur50&theme=github-dark-blue">
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahibur50&langs_count=5&theme=github_dark)]()
