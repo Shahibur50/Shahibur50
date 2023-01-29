@@ -69,4 +69,4 @@
 ## Statistics
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahibur50&count_private=true&theme=github_dark&showicons=true)]() 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahibur50&theme=github-dark-blue">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahibur50&langs_count=5&theme=github_dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahibur50&langs_count=10&theme=github_dark)]()
