@@ -67,6 +67,6 @@
 - ⚡ Fun fact: The quieter you become, the more you are able to hear.
 
 ## Statistics
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahibur50&layout=compact&hide_border=true&langs_count=10&theme=github_dark)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shahibur50&hide_border=true&count_private=false&theme=github_dark&showicons=true)]() 
+[![My GitHub Language Stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Shahibur50&layout=compact&hide_border=true&langs_count=10&theme=github_dark)]()
+[![My GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api/?username=Shahibur50&hide_border=true&count_private=false&theme=github_dark&showicons=true)]() 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahibur50&hide_border=true&theme=github-dark-blue">
