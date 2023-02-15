@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="GitPhoto.jpg"></img>
+![image](GitPhoto.jpg)
 
 ### Few things about me
 - 🔭 I’m currently working on [LessSQL](https://github.com/Shahibur50/LessSQL) (An intuitive MySQL database management client).
