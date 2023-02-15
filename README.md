@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+<img src="GitPhoto.jpg"></img>
+
 ### Few things about me
 - 🔭 I’m currently working on [LessSQL](https://github.com/Shahibur50/LessSQL) (An intuitive MySQL database management client).
-  <img src="GitPhoto.jpg"></img>
   - <details><summary>LessSQL Demo</summary>
     <p>
 
